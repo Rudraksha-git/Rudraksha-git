@@ -5,7 +5,6 @@ Welcome to my GitHub! I am a 2nd-year undergraduate student pursuing a **B.Tech 
 ### 🚀 About Me
 - 🔭 I’m currently working on bridging mechatronics with interactive software, exploring everything from warehouse robot navigation and motor control to full-stack web and mobile apps.
 - 💻 I actively participate in competitive programming and data structures & algorithms using C++ and Java.
-- 🤝 I am a proud member of the **HackSlash Coding Club** at NIT Patna and heavily involved in organizing tech events like the **Byteverse Hackathon**.
 - 🌟 Open Source Contributor for **GirlScript Summer of Code (GSSoC '25)**.
 
 ---
@@ -29,7 +28,7 @@ Welcome to my GitHub! I am a 2nd-year undergraduate student pursuing a **B.Tech 
 ### 💡 Featured Projects & Experience
 
 * **StoryWeaver:** A full-stack web application built using Next.js and Google Generative AI to help preserve regional dialects.
-* **Custom Garbage Collector:** Engineered a custom Mark-and-Sweep garbage collector in C++ to simulate manual memory management via a smart pointer registry.
+* **GriefBRidge:** a dual-track bereavement support platform using Next.js and LangChain.js, featuring a comprehensive Retrieval-Augmented Generation (RAG) pipeline to process, embed, and query multi-modal personal archives..
 * **Graphical 8-Queens Solver:** Developed an interactive solver in C utilizing the SDL2 library for 2D chessboard visualization and backtracking algorithm demonstration.
 * **AI-Driven Detection App:** Built and submitted a prototype for the Securities Market Hackathon (SEBI Hackathon).
 
@@ -38,12 +37,10 @@ Welcome to my GitHub! I am a 2nd-year undergraduate student pursuing a **B.Tech 
 ### 🌱 Community & Leadership
 - **Event Organization:** Point of Contact and Sponsorship Team member for Team Nougat / Byteverse.
 - **Hackathons:** Active participant in development and competitive programming contests on LeetCode and Codeforces.
-
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](#)
-- **Portfolio:** [your-portfolio-link.com](#)
-- **Email:** reach.rudraksha@example.com
+- **LinkedIn:** [linkedin.com/in/rudraksha-kumar-76702b336](#)
+- **Email:** rudrakshkumar11@gmail.com
 
 [Rudraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudraksha-git&show_icons=true&theme=radical)
