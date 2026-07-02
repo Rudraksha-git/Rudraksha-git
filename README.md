@@ -43,4 +43,4 @@ Welcome to my GitHub! I am a 2nd-year undergraduate student pursuing a **B.Tech 
 - **LinkedIn:** [linkedin.com/in/rudraksha-kumar-76702b336](#)
 - **Email:** rudrakshkumar11@gmail.com
 
-![Rudraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudraksha-git&show_icons=true&theme=radical)
+[Rudraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudraksha-git&show_icons=true&theme=radical)
