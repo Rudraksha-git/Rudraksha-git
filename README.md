@@ -28,7 +28,7 @@ Welcome to my GitHub! I am a 3rd-year undergraduate student pursuing a **B.Tech 
 ### 💡 Featured Projects & Experience
 
 * **StoryWeaver:** A full-stack web application built using Next.js and Google Generative AI to help preserve regional dialects.
-* **GriefBRidge:** a dual-track bereavement support platform using Next.js and LangChain.js, featuring a comprehensive Retrieval-Augmented Generation (RAG) pipeline to process, embed, and query multi-modal personal archives..
+* **GriefBridge:** a dual-track bereavement support platform using Next.js and LangChain.js, featuring a comprehensive Retrieval-Augmented Generation (RAG) pipeline to process, embed, and query multi-modal personal archives..
 * **Graphical 8-Queens Solver:** Developed an interactive solver in C utilizing the SDL2 library for 2D chessboard visualization and backtracking algorithm demonstration.
 * **AI-Driven Detection App:** Built and submitted a prototype for the Securities Market Hackathon (SEBI Hackathon).
 
