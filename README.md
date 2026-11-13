@@ -1,6 +1,6 @@
 # Hi there, I'm Rudraksha Kumar! 👋
 
-Welcome to my GitHub! I am a 2nd-year undergraduate student pursuing a **B.Tech in Mechatronics and Automation Engineering** at the **National Institute of Technology (NIT) Patna**. I am passionate about bridging the gap between hardware and software, with a strong focus on robotics, embedded systems, and full-stack application development.
+Welcome to my GitHub! I am a 3rd-year undergraduate student pursuing a **B.Tech in Mechatronics and Automation Engineering** at the **National Institute of Technology (NIT) Patna**. I am passionate about bridging the gap between hardware and software, with a strong focus on robotics, embedded systems, and full-stack application development.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on bridging mechatronics with interactive software, exploring everything from warehouse robot navigation and motor control to full-stack web and mobile apps.
